@@ -20,7 +20,7 @@
     "thunkify": "^2.1.2",
     "url": "^0.11.0",
     "validator": "^13.1.1",
-    "snyk": "^1.639.0"
+    "snyk": "^1.660.0"
   },
   "devDependencies": {},
   "scripts": {
